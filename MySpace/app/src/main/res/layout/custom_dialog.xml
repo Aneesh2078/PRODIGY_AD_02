@@ -1,0 +1,15 @@
+<!-- res/layout/custom_dialog.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your text"/>
+
+    <!-- Add any other views you want in your custom dialog -->
+
+</LinearLayout>
